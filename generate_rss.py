@@ -4,7 +4,6 @@ import urllib
 
 from pyquery import PyQuery as pq
 from lxml import etree
-from IPython import embed
 
 
 BASE_URL = "https://www.dhammatalks.org/"
